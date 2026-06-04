@@ -7,6 +7,7 @@ export default function HolidayPage() {
     <div className="h-screen text-gray-900 flex justify-center items-center gap-4">
      <Card imgSrc="/golden-gate.jpg" cityName="San Francisco" type="premium economy"/>
      <Card imgSrc="/ikn.jpg" cityName="IKN" type="Business class"/>
+     
     
     </div>
   );
